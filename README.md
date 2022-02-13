@@ -18,10 +18,10 @@ Blue color.
 
 
 
-Atmosphere data 	Control action 	Direction 	Action 
-Temperature 	Temp. Up 	      Left 	      Pressed 
-Temp. Down 	      Temp. Down 	      Left 	      Held 
-Pressure 	      Pressure Up 	Up 	      Pressed 
-Pressure Down 	Pressure Down 	Up 	      Held 
-Humidity 	      Humidity Up 	Right 	Pressed 
-Humidity Down 	Humidity Down 	Right 	Held 
+Atmosphere data 	Control action 	Direction 	Action <br>
+Temperature 	Temp. Up 	      Left 	      Pressed <br>
+Temp. Down 	      Temp. Down 	      Left 	      Held <br>
+Pressure 	      Pressure Up 	Up 	      Pressed <br>
+Pressure Down 	Pressure Down 	Up 	      Held <br>
+Humidity 	      Humidity Up 	Right 	Pressed <br>
+Humidity Down 	Humidity Down 	Right 	Held <br>
