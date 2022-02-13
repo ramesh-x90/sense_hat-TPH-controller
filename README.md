@@ -15,23 +15,13 @@ Blue color.
 <br>
 5. Joystick should work under following conditions
 <br>
-<th>Atmosphere</th>
-<th>data</th>
-<th>Control</th>
-<th>action</th>
-<th>Direction</th>
-<th>Action</th>
 
-      <tr>
-        <td rowspan="2">Temperature</td>
-        <td>Temp. Up</td>
-        <td>Left</td>
-        <td>Pressed</td>
-      </tr>
 
-Temperature Temp. Up Left Pressed
-Temp. Down Left Held
-Pressure Pressure Up Up Pressed
-Pressure Down Up Held
-Humidity Humidity Up Right Pressed
-Humidity Down Right Held
+
+Atmosphere data 	Control action 	Direction 	Action 
+Temperature 	Temp. Up 	      Left 	      Pressed 
+Temp. Down 	      Temp. Down 	      Left 	      Held 
+Pressure 	      Pressure Up 	Up 	      Pressed 
+Pressure Down 	Pressure Down 	Up 	      Held 
+Humidity 	      Humidity Up 	Right 	Pressed 
+Humidity Down 	Humidity Down 	Right 	Held 
