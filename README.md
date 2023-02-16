@@ -25,3 +25,4 @@ Pressure 	      Pressure Up 	Up 	      Pressed <br>
 Pressure Down 	Pressure Down 	Up 	      Held <br>
 Humidity 	      Humidity Up 	Right 	Pressed <br>
 Humidity Down 	Humidity Down 	Right 	Held <br>
+[assignment 4(AA2101).pdf](https://github.com/ramesh-x90/sense_hat-TPH-controller/files/10756114/assignment.4.AA2101.pdf)
